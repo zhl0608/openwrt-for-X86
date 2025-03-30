@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "metadata-static.plex.tv",
+        "metadata.provider.plex.tv",
+        "provider.plex.tv",
+        "analytics.plex.tv",
+        "meta.plex.tv",
+        "support.plex.tv",
+        "forums.plex.tv",
+        "downloads.plex.tv",
+        "clients.plex.tv",
+        "pubsub.plex.tv",
+        "images.plex.tv",
+        "together.plex.tv",
+        "community.plex.tv",
+        "scrobbles.plex.tv",
+        "features.plex.tv",
+        "star-space.net"
+      ]
+    }
+  ]
+}
